@@ -1,0 +1,36 @@
+generated: '2026-07-18'
+method: searched
+source: https://behavox.com/security-compliance
+note: >-
+  Behavox publishes no public API or OpenAPI, so no API-level cross-cutting
+  standards (oauth2, rfc9457, pagination, etc.) can be asserted. The standards
+  below are the organizational security/compliance certifications Behavox
+  publishes on its Trust Center and Security & Compliance pages.
+standards:
+- id: soc2-type-ii
+  conforms: true
+  evidence: SOC 2 Type II examination (Schellman & Company); published on behavox.com/security-compliance
+- id: iso-27001
+  conforms: true
+  evidence: ISO/IEC 27001 information security management certification
+- id: iso-42001
+  conforms: true
+  evidence: ISO/IEC 42001:2023 AI management system certification (Nov 2025)
+- id: fedramp
+  conforms: true
+  evidence: Operates on Google Cloud's FedRAMP-authorized platform
+- id: gdpr
+  conforms: true
+  evidence: GDPR compliance stated on security-compliance page
+- id: ccpa
+  conforms: true
+  evidence: CCPA compliance stated on security-compliance page
+- id: dora
+  conforms: true
+  evidence: Digital Operational Resilience Act (DORA) compliance stated
+- id: nist-800-53r5
+  conforms: true
+  evidence: Controls mapped to NIST 800-53 Rev. 5
+- id: nydfs-23nycrr500
+  conforms: true
+  evidence: Alignment with NYDFS Cybersecurity Regulation 23 NYCRR 500

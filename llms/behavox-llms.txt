@@ -1,0 +1,33 @@
+# Behavox
+
+> Behavox builds AI-native compliance and conduct-surveillance software that helps the world’s leading financial institutions detect risk, misconduct, and market abuse across every communication channel.
+
+Behavox combines purpose-built AI models trained on financial-markets language with a unified data platform spanning surveillance, archiving, investigation, and supervision.
+
+For a full-text digest of every product and article, see https://www.behavox.com/llms-full.txt
+
+The product portfolio below is the canonical reference for what Behavox offers.
+
+## Products
+
+- [Behavox products](https://www.behavox.com/products): Index of the full Behavox product portfolio.
+- [Atlas](https://www.behavox.com/atlas): The control room that closes the loop between business, compliance decisions, and regulatory evidence.
+- [Compass](https://www.behavox.com/compass): The integrated conflicts-of-interest platform — declare, detect and defend, on one record.
+- [Cross-Border Compliance](https://www.behavox.com/cross-border-compliance): Know what every rule permits, in every jurisdiction, before the business acts.
+- [Digital Employees](https://www.behavox.com/digital-employees): Not just compliance — intelligent automation for any repetitive, multi-system workflow across your organisation.
+- [Falcon](https://www.behavox.com/falcon): Detect the human signals that precede insider incidents — before employees act on them.
+- [Intelligent Archive](https://www.behavox.com/intelligent-archive): Respond to any regulatory request — in hours instead of weeks.
+- [Mosaic](https://www.behavox.com/mosaic): The revenue intelligence platform that turns fragmented front-office data into prescribed actions — so your salespeople close more trades, every day.
+- [Pathfinder](https://www.behavox.com/pathfinder): From regulatory update to approved, acknowledged policy change — monitored, mapped, and evidenced in one auditable system.
+- [Polaris](https://www.behavox.com/polaris): Trade surveillance that reduces compliance friction and increases business velocity.
+- [Quantum](https://www.behavox.com/quantum): Voice and text across 50+ languages and 150+ channels — the lowest alert volume in the market, scaling to hundreds of thousands of employees.
+
+## News
+
+- [Quantum Reaches a New Detection Milestone](https://www.behavox.com/news/2026-sample-product-milestone): Quantum has reached a new conduct-surveillance detection milestone, improving precision across voice, text, and structured communications.
+- [Behavox Announces Strategic Partnership to Expand AI Compliance](https://www.behavox.com/news/2026-sample-partnership-announcement): Behavox today announced a strategic partnership to extend its AI-native compliance and conduct-surveillance platform to more financial institutions worldwide.
+
+## Company
+
+- [Behavox home](https://www.behavox.com/): AI-native compliance and conduct surveillance for financial markets.
+- [Request a demo](https://www.behavox.com/demo): Book a working session with the Behavox team.

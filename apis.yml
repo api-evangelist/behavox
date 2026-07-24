@@ -1,9 +1,31 @@
 aid: behavox
 name: Behavox
-description: 'Behavox is a company surfaced as a portfolio company of index-ventures, softbank-vision-fund
-  and added to the API Evangelist network as a stub for enrichment. Sector: fintech. This profile is a
-  lead awaiting the enrichment pipeline.'
+description: >-
+  Behavox is an AI-native compliance and conduct-surveillance software company
+  serving the world's leading financial institutions and regulated enterprises.
+  Its Unified AI Controls Platform spans directive, preventive, detective, and
+  corrective controls — including Quantum (voice and text communication
+  surveillance across 50+ languages and 150+ channels), Polaris (trade
+  surveillance), Falcon (insider-threat and human-risk detection), Compass
+  (conflicts of interest and personal account dealing), Atlas (control-room
+  enforcement), Pathfinder (regulatory-change-to-policy), Intelligent Archive,
+  Digital Employees, and Mosaic front-office revenue intelligence. Behavox is
+  backed by Index Ventures and the SoftBank Vision Fund. The company sells
+  directly to enterprise financial-services customers and does not publish a
+  public developer portal, API documentation, or SDKs.
 url: https://raw.githubusercontent.com/api-evangelist/behavox/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.behavox.com/icon.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -13,10 +35,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Fintech
+- Compliance
+- Surveillance
+- RegTech
+- Artificial Intelligence
+- Financial Services
+- Security
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,4 +53,29 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://behavox.com
+  url: https://behavox.com
+- type: PrivacyPolicy
+  url: https://behavox.com/privacy
+- type: TermsOfService
+  url: https://behavox.com/terms
+- type: Support
+  url: https://behavox.com/contact
+- type: Security
+  url: https://behavox.com/security-compliance
+- type: Compliance
+  url: https://behavox.com/security-compliance
+- type: TrustCenter
+  url: security/behavox-trust-center.yml
+- type: DomainSecurity
+  url: security/behavox-domain-security.yml
+- type: VulnerabilityDisclosure
+  url: security/behavox-vulnerability-disclosure.yml
+- type: Conformance
+  url: conformance/behavox-conformance.yml
+- type: LLMsTxt
+  url: llms/behavox-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

@@ -1,0 +1,33 @@
+generated: '2026-07-18'
+method: searched
+probe: true
+source: https://trust.behavox.com/
+url: https://trust.behavox.com/
+docs: https://behavox.com/security-compliance
+certifications:
+- SOC 2 Type II
+- ISO/IEC 27001
+- ISO/IEC 42001:2023
+- FedRAMP (Google Cloud authorized platform)
+- GDPR
+- CCPA
+- DORA
+frameworks:
+- NIST 800-53 Rev. 5
+- CSA-CCM
+- MITRE ATT&CK
+- NYDFS 23 NYCRR 500
+auditors:
+- Schellman & Company, LLC
+evidence:
+- source: https://trust.behavox.com/
+  keywords:
+  - soc 2
+  - trust center
+  - gdpr
+- source: https://behavox.com/security-compliance
+  keywords:
+  - iso 27001
+  - iso 42001
+  - fedramp
+  - dora
