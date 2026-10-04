@@ -51,20 +51,21 @@ tags:
 - Company
 - Fintech
 - Compliance
-- Surveillance
-- RegTech
-- Artificial Intelligence
-- Financial-Services
-- Security
-tags_raw:
-- Company
-- Fintech
-- Compliance
-- Surveillance
 - RegTech
 - Artificial Intelligence
 - Financial Services
 - Security
+- Trade Surveillance
+tags_raw:
+- Company
+- Fintech
+- Compliance
+- RegTech
+- Artificial Intelligence
+- Financial Services
+- Security
+- Financial-Services
+- Trade Surveillance
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -99,3 +100,5 @@ x-enrichment:
   status: backfilled
   pass: local-v1
   note: backfilled from .gitignore signal + verified work evidence
+x-tags-removed:
+- Surveillance
