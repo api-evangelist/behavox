@@ -73,6 +73,10 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: Pricing
+  url: https://behavox.com/digital-employees
+- type: Plans
+  url: plans/behavox-plans-pricing.yml
 - url: https://behavox.com/news
   type: Blog
 - type: Website
