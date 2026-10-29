@@ -64,6 +64,94 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Behavox is a company surfaced as a portfolio company of index-ventures, softbank-vision-fund and added to the API Evangelist network as a stub for enrichment. Sector: fintech. This profile is a lead awaiting the enrichment pipeline.
+Behavox is an AI-native compliance and conduct-surveillance software company serving the world's leading financial institutions and regulated enterprises. Its Unified AI Controls Platform spans directive, preventive, detective, and corrective controls — including Quantum (voice and text communication surveillance across 50+ languages and 150+ channels), Polaris (trade surveillance), Falcon (insider-threat and human-risk detection), Compass (conflicts of interest and personal account dealing), Atlas (control-room enforcement), Pathfinder (regulatory-change-to-policy), Intelligent Archive, Digital Employees, and Mosaic front-office revenue intelligence. Behavox is backed by Index Ventures and the SoftBank Vision Fund. The company sells directly to enterprise financial-services customers and does not publish a public developer portal, API documentation, or SDKs.
 
-Backed by: index-ventures, softbank-vision-fund — http://behavox.com
+**Areas:** Company · Fintech · Compliance · RegTech · Artificial Intelligence · Financial Services · Security · Trade Surveillance
+
+## Behavox on APIs.io
+
+Everything profiled for Behavox is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/behavox/](https://apis.io/providers/behavox/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Behavox Domain Security](https://apis.io/security/behavox/behavox-domain-security/)
+- [Behavox Trust Center](https://apis.io/security/behavox/behavox-trust-center/)
+- [Behavox Vulnerability Disclosure](https://apis.io/security/behavox/behavox-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Behavox Plans Pricing](https://apis.io/plans/behavox/behavox-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://behavox.com)
+- [Pricing](https://behavox.com/digital-employees)
+- [Support](https://behavox.com/contact)
+- [Blog](https://behavox.com/news)
+- [Security](https://behavox.com/security-compliance)
+- [Compliance](https://behavox.com/security-compliance)
+- [Terms of service](https://behavox.com/terms)
+- [Privacy policy](https://behavox.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 21.8** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 47.4 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 27.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/behavox/](https://apis.io/providers/behavox/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Behavox: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/behavox/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
